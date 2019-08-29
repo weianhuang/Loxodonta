@@ -23,3 +23,6 @@ Melee – X
 Move – Left Stick  
 Dash – RB (Right Bumper)  
 Melee – LB (Left Bumper)  
+
+[![Demo Video](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=KSbxcX6oGYI)
+
