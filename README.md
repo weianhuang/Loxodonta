@@ -1,7 +1,7 @@
 # Loxodonta
 A fast-paced, top-down dungeon-crawler.
 
-![Alt text](screenshots/screenshot.png?raw=true "Gameplay image")
+![Alt text](screenshots/screen.png?raw=true "Gameplay image")
 
 ## Concept
 
