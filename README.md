@@ -1,7 +1,7 @@
 # Loxodonta
 A fast-paced, top-down dungeon-crawler.
 
-![Alt text](screenshots/screenshot1.png?raw=true "Gameplay image")
+![Alt text](screenshots/screenshot.png?raw=true "Gameplay image")
 
 ## Concept
 
@@ -23,5 +23,3 @@ Melee – X
 Move – Left Stick  
 Dash – RB (Right Bumper)  
 Melee – LB (Left Bumper)  
-
-![Alt text](screenshots/screenshot2.png?raw=true "Gameplay image")
