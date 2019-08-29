@@ -3,6 +3,9 @@ A fast-paced, top-down dungeon-crawler.
 
 ![Alt text](screenshots/screen.png?raw=true "Gameplay image")
 
+## Install
+Download Loxodonta.jar inside folder "final" 
+
 ## Concept
 
 Hundreds of light-years from the Earth, thousands of creatures from 
